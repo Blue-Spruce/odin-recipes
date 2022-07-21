@@ -1,0 +1,16 @@
+h1,
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: #9b48e9;
+    text-align: center;
+    background-color: #ffc37a;
+    font-size: 50px;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
